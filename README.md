@@ -1,6 +1,6 @@
 # cuSHtom
-A custom shell written in golang for unix systems.
-This shell is capable of performing all the basic commands and functionalities that any shell needs to perform.
+- A custom shell written in golang for unix systems.
+- This shell is capable of performing all the basic commands and functionalities that any shell needs to perform.
 
 
 # Basic Demo Video
